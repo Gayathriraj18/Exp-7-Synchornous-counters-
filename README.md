@@ -114,9 +114,12 @@ module dc(input CLK,input reset,output[0:3]counter);
 
 ### TRUTH TABLE 
 
+![tt1](https://user-images.githubusercontent.com/94154854/198289596-38b13119-3c7c-4430-b5d7-c66b7351789f.png)
 
-
+![TT](https://user-images.githubusercontent.com/94154854/198289653-4dbb9e22-a82f-493b-9fed-b39940eab474.png)
 
 
 
 ### RESULTS 
+
+Thus 4 bit up and down counters are implemented and functionality is validated.
